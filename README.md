@@ -8,3 +8,4 @@
 - Git Branches
 - Github Basics
 - Markdown Basics
+- Classes in JavaScript
