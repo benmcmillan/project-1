@@ -2,10 +2,5 @@
 
 ## Learning Objectives
 
-- Install & Configure Workflow Tools
-- Unix Command Line
-- Git Workflow
-- Git Branches
-- Github Basics
-- Markdown Basics
-- Classes in JavaScript
+- Basic Unix Shell commands
+- [add the rest here..]
