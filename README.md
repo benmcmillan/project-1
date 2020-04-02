@@ -3,4 +3,4 @@
 ## Learning Objectives
 
 - Basic Unix Shell commands
-- [add the rest here..]
+- Install and Configure Git using the Unix Shell
