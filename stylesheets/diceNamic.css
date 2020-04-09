@@ -6,4 +6,10 @@ button {
   background-color: black;
   color: lime;
   font-size: 24px;
+  border-radius: 7px;
+}
+
+hr {
+  height: 3px;
+  background-color: lime;
 }
