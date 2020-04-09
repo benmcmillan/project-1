@@ -9,5 +9,5 @@
 - Markdown language for README files
 - JavaScript ES6+ features
 - Learn how to navigate your computer with Gitbash
-- <img src="./images/githubcat.png" alt="GithubCat" width="125"/>
+- <img src="./images/githubcat.png" alt="Github Cat" width="125"/>
 -[My Website](https://pages.uoregon.edu/bmcmilla/281/)
