@@ -8,14 +8,16 @@ function rollDie() {
 
 function rollToTarget(n) {
   if (n > 12 || n < 2) return 0;
-  var rolls = 0,d1=0,d2=0;
+  var rolls = 0,
+    d1 = 0,
+    d2 = 0;
   while (d1 + d2 !== n) {
     d1 = rollDie();
     d2 = rollDie();
     rolls++;
     console.log(`d1 = ${d1} d2 = ${d2}`);
   }
-  showDice(d1,d2);
+  showDice(d1, d2);
   return rolls;
 }
 
